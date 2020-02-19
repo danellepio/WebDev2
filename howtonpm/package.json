@@ -1,0 +1,23 @@
+{
+  "name": "pio",
+  "version": "1.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3",
+    "how-to-npm": "^2.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start-npm": "how-to-npm",
+    "verify-npm": "how-to-npm verify",
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "hi po!",
+  "repository": {
+    "type": "git",
+    "url": "pio"
+  }
+}
